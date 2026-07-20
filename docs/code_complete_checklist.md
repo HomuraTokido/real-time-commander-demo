@@ -189,7 +189,7 @@ python3 scripts/web_server.py --port 8001
 用干净环境模拟"陌生人克隆后能不能跑"：
 
 ```bash
-git clone https://github.com/Corrame/real-time-commander-demo.git /tmp/rtcd-test
+git clone https://github.com/HomuraTokido/real-time-commander-demo.git /tmp/rtcd-test
 cd /tmp/rtcd-test
 pip install openai
 cp .env.example .env

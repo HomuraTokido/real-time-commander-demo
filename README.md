@@ -4,17 +4,17 @@
 
 一个针对「自然语言指挥是否能成为战斗系统交互层」的最小可证原型。
 
-[![CI](https://github.com/Corrame/real-time-commander-demo/actions/workflows/self-check.yml/badge.svg)](https://github.com/Corrame/real-time-commander-demo/actions/workflows/self-check.yml)
+[![CI](https://github.com/HomuraTokido/real-time-commander-demo/actions/workflows/self-check.yml/badge.svg)](https://github.com/HomuraTokido/real-time-commander-demo/actions/workflows/self-check.yml)
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![LLM backend](https://img.shields.io/badge/LLM%20backend-OpenAI--compatible-purple)
-[![Demo](https://img.shields.io/badge/Demo-GitHub%20Pages-black)](https://corrame.github.io/real-time-commander-demo/)
+[![Demo](https://img.shields.io/badge/Demo-GitHub%20Pages-black)](https://homuratokido.github.io/real-time-commander-demo/)
 
 ---
 
 ## Quick links
 
-- [Web demo](https://corrame.github.io/real-time-commander-demo/)
+- [Web demo](https://homuratokido.github.io/real-time-commander-demo/)
 - [1.0 Evidence](docs/1.0_EVIDENCE.md)
 - [Robustness check](docs/1.0_EVIDENCE_ROBUSTNESS.md)
 - [Authorship / proof note](docs/AUTHORSHIP.md)
